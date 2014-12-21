@@ -6,7 +6,7 @@
 ## VARIABLES
 
 ### ID
-	Unique identifiers for subjects who participated in the study
+Unique identifiers for subjects who participated in the study
 
 ### ACTIVITY
 Activity is a factor that takes one of six classifications - WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS ,SITTING, STANDING, LAYING
