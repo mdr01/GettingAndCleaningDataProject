@@ -116,5 +116,5 @@ names(TrainTestData)[1]<-"ID"
 names(TrainTestData)[2]<-"Activity"
 
 # write tidy data to .txt file
-write.table(combinedData,file="HAR_TidyDataIntermediate.txt")
-write.table(TrainTestData,file="HAR_TidyData.txt")
+write.table(combinedData,file="HAR_TidyDataIntermediate.txt",row.name=FALSE)
+write.table(TrainTestData,file="HAR_TidyData.txt",row.name=FALSE)
